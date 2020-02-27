@@ -103,7 +103,7 @@ if &t_Co > 255
 	hi Comment ctermfg=145 cterm=NONE
 	hi ColorColumn ctermbg=59 cterm=NONE
 	hi Conditional ctermfg=175 cterm=NONE
-	hi Constant ctermfg=74 cterm=NONE
+	hi Constant ctermfg=43 cterm=NONE
 	hi Cursor ctermbg=65 cterm=NONE
 	hi CursorLine ctermbg=234 cterm=NONE
 	hi CursorLineNr ctermfg=65 ctermbg=234 cterm=NONE
@@ -164,7 +164,7 @@ if &t_Co > 255
 	hi Tag ctermfg=65 cterm=NONE
 	hi Title ctermfg=175 cterm=bold
 	hi Todo ctermfg=188 ctermbg=65 cterm=bold,italic
-	hi Type ctermfg=189 cterm=NONE
+	hi Type ctermfg=43 cterm=NONE
 	hi Typedef ctermfg=79 cterm=NONE
 	hi Underlined cterm=underline
 	hi VertSplit ctermfg=234 ctermbg=59 cterm=NONE
